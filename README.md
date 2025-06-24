@@ -2,7 +2,7 @@
 Analysis of the Duffing oscillator using the Harmonic Balance Method.
 
 This repository contains MATLAB implementations and reproductions based on  
-**_Harmonic Balance for Nonlinear Vibration Problems_ by Malte Krack and Peter Groß**.
+**_Harmonic Balance for Nonlinear Vibration Problems_ by Malte Krack and Johann Gross**.
 
 
 ## External Libraries and Licenses 
